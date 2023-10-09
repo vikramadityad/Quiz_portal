@@ -1,67 +1,61 @@
 // Quiz Questions
 const questions = [
   {
-    question: "What is the capital of France?",
-    choices: ["Paris", "Madrid", "Rome", "Berlin"],
-    answer: 0
+    question: "What is the primary purpose of HTML?",
+    choices: ["Styling web pages", "Creating interactive web applications", "Defining the structure of web content", "Handling server-side logic"],
+    answer: 2
   },
   {
-    question: "Which programming language is used for web development?",
+    question: "Which programming language is commonly used for building web applications?",
     choices: ["Java", "Python", "JavaScript", "C++"],
     answer: 2
   },
   {
-    question: "What is the capital of India?",
-    choices: ["Delhi", "Madrid", "Rome", "Berlin"],
-    answer: 0
-  },
-
-  {
-    question: "What is the largest planet in our solar system?",
-    choices: ["Mars", "Earth", "Jupiter", "Saturn"],
+    question: "What does CSS stand for in web development?",
+    choices: ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
     answer: 2
   },
   {
-    question: "Which gas do plants absorb from the atmosphere during photosynthesis?",
-    choices: ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    question: "What is the primary purpose of a database management system (DBMS)?",
+    choices: ["Playing video games", "Managing and organizing data", "Sending emails", "Creating websites"],
     answer: 1
   },
   {
-    question: "Who wrote the play 'Romeo and Juliet'?",
-    choices: ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    question: "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+    choices: ["Queue", "Stack", "Heap", "Linked List"],
     answer: 1
   },
   {
-    question: "What is the chemical symbol for gold?",
-    choices: ["Go", "Au", "Ag", "Ge"],
-    answer: 1
-  },
-  {
-    question: "What is the tallest mountain in the world?",
-    choices: ["Mount Kilimanjaro", "Mount Fuji", "Mount Everest", "Mount McKinley"],
-    answer: 2
-  },
-  {
-    question: "Which planet is known as the 'Red Planet'?",
-    choices: ["Mars", "Venus", "Jupiter", "Saturn"],
+    question: "In object-oriented programming, what is encapsulation?",
+    choices: ["Hiding the implementation details of an object", "Storing data in an array", "Sorting data in a list", "Creating a graphical user interface"],
     answer: 0
   },
   {
-    question: "In which year did Christopher Columbus reach the Americas?",
-    choices: ["1492", "1501", "1510", "1525"],
+    question: "What is the purpose of a version control system like Git?",
+    choices: ["Baking cakes", "Tracking changes in code and collaborating with others", "Sending text messages", "Playing music"],
+    answer: 1
+  },
+  {
+    question: "What does the acronym 'HTTP' stand for in web development?",
+    choices: ["HyperText Transfer Protocol", "Highly Tuned Text Transfer Protocol", "Hypertext Testing Tool Protocol", "Hyperlink and Text Transfer Process"],
     answer: 0
   },
   {
-    question: "What is the chemical symbol for water?",
-    choices: ["Wa", "H2O", "Hy", "O2H"],
-    answer: 1
+    question: "What is the main advantage of using a compiled programming language?",
+    choices: ["Ease of learning", "Human-readable code", "Portability", "Performance optimization"],
+    answer: 3
+  },
+  {
+    question: "What is a function in programming?",
+    choices: ["A piece of code that performs a specific task", "A computer keyboard key", "A type of variable", "A programming language"],
+    answer: 0
   }
-  
 ];
+
 
 // Variables
 let currentQuestionIndex = 0;
-let time = 30;
+let time = 120;
 let score = 0;
 let timerInterval;
 
