@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 <img width="1476" alt="Screenshot 2023-10-08 at 7 43 56 PM" src="https://github.com/vikramadityad/Quiz_portal/assets/28673859/f1080f73-a3af-4690-bb72-34c5ac630e43">
 <img width="1452" alt="Screenshot 2023-10-09 at 8 41 14 PM" src="https://github.com/vikramadityad/Quiz_portal/assets/28673859/338904ce-8fa8-46f1-bd15-583002d99b20">
 <img width="1476" alt="Screenshot 2023-10-08 at 7 44 29 PM" src="https://github.com/vikramadityad/Quiz_portal/assets/28673859/81a28aaa-6e80-49a8-bd4e-a9b937690b6c">
-<img width="1471" alt="Screenshot 2023-10-08 at 7 44 35 PM" src="https://github.com/vikramadityad/Quiz_portal/assets/28673859/99fd3eb9-fa6f-49bf-b20c-65cde9ff6ac4">
+<img width="1279" alt="Screenshot 2023-10-09 at 11 39 07 PM" src="https://github.com/vikramadityad/Quiz_portal/assets/28673859/6c3a9a54-b2ef-4ed6-918c-9659ac49e0a9">
 
 
 ## LiveURL:
